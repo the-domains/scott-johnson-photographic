@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Scott Johnson Photographic]]></title>
         <description><![CDATA[Scott Johnson Photographic]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/scott-johnson-photographic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 07:12:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 07:17:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/scott-johnson-photographic/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Sunset]]></title>
-            <description><![CDATA[<article><h1>Sunset</h1><p>Sunsets</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/44a81b00772c53d9d1bafce7b8d5c48c0bd70e90.png"></article>]]></description>
-            <link>undefinedbc5cfebe-027c-4ced-915a-2d109ea98240/index.html</link>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f01ec411-8686-412c-966e-ebf63c169f2e.tif" alt="" title="">]]></description>
+            <link>https://thegrid.ai/scott-johnson-photographic/bc5cfebe-027c-4ced-915a-2d109ea98240/index.html</link>
             <guid isPermaLink="false">bc5cfebe-027c-4ced-915a-2d109ea98240</guid>
-            <pubDate>Mon, 04 Jan 2016 07:12:25 GMT</pubDate>
+            <pubDate>Mon, 04 Jan 2016 07:17:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
