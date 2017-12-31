@@ -1,28 +1,42 @@
-name: Scott Johnson Photographic
-favicon: null
-layout_spectrum: 0.10948688676580787
-typography_spectrum: 0.8051066789776087
+content: []
+description: Ausytralian images
+title: 'Postcards From Australia '
+content_rating:
+  adult: false
 cta:
-  domain: null
-  bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  bucket: null
+  domain: null
+layout_spectrum: 0.1094868867658079
+github: true
+name: Postcards From Australia
+author:
+  email: soundamonium.cairns@gmail.com
+  name: Scott Johnson
+purpose: []
+analytics: {}
+opengraph: {}
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
+  brandStrength: 0.6134517751634121
+  lightness: 0.7798263132572174
+  saturation: 0.7428483872208744
+  rhythmicContrast: 0.1990387854166329
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.6134517751634121
-  lightness: 0.7798263132572174
-  saturation: 0.7428483872208744
-  rhythmicContrast: 0.1990387854166329
-purpose: []
+typography_spectrum: 0.8051066789776087
