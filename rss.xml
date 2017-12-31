@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Scott Johnson Photographic Service ]]></title>
-        <description><![CDATA[Scott Johnson Photographic Service ]]></description>
+        <title><![CDATA[Scott Johnson Photographic Service]]></title>
+        <description><![CDATA[Scott Johnson Photographic Service]]></description>
         <link>https://thegrid.ai/scott-johnson-photographic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Dec 2017 14:26:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2017 14:45:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scott-johnson-photographic/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 Dec 2017 14:26:54 GMT</pubDate>
+        <pubDate>Sun, 31 Dec 2017 14:45:39 GMT</pubDate>
         <item>
             <title><![CDATA[Scott Johnson added a new photo.]]></title>
             <description><![CDATA[<h1>Scott Johnson added a new photo.</h1>,<article><img src="https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18620778_1894731767411436_5923127726726057157_o.jpg?oh=9aa62a97bee6caf0cee2acfc5d750abb&oe=5AF8C16A"></article>]]></description>
             <link>https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/18620778_1894731767411436_5923127726726057157_o.jpg?oh=9aa62a97bee6caf0cee2acfc5d750abb&amp;oe=5AF8C16A</link>
             <guid isPermaLink="false">d7ae1c3b-9d17-40cd-a738-21811615208b</guid>
             <pubDate>Sun, 31 Dec 2017 14:11:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Glory]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f6eb615bbcf86744dfa94e0b215347d12cf05ad.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/22f38cad8a8440bf23cd50d13ad5a78c9adb62be.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6a093d96ea04cd1986169e1d148de1c82a8de5b2.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f5ef4de73f697df71bd0d89cfa3c4c80ea0511cf.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de8d6a816ae73eb311fb68ea2a901588aff25b0c.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d8c3ba539254465c73e12ed32891db15168d851d.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0fb47337323a0211115316950acd1ad52fd36851.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0601f453761676fe6677334b7a1b24884ffc7fc7.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e45e3c1a9f7af8efed36304bd989615a671541f2.jpg">,<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9a2e081cb890ced602f55386c3157fc490baad59.jpg">,<h2>Glory</h2>]]></description>
+            <link>https://thegrid.ai/scott-johnson-photographic/46f05d29-e62e-47ff-a5f9-2e52bf47e515/index.html</link>
+            <guid isPermaLink="false">46f05d29-e62e-47ff-a5f9-2e52bf47e515</guid>
+            <pubDate>Sun, 31 Dec 2017 14:10:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
