@@ -4,9 +4,16 @@
         <description><![CDATA[Scott Johnson Photographic Service ]]></description>
         <link>https://thegrid.ai/scott-johnson-photographic/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Dec 2017 14:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Dec 2017 14:11:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/scott-johnson-photographic/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 31 Dec 2017 14:11:20 GMT</pubDate>
+        <pubDate>Sun, 31 Dec 2017 14:11:29 GMT</pubDate>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[Sun IN Sky,<article><img src="https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/20232873_1926702617547684_6799084238190838367_o.jpg?oh=ebace15fe2f2cc4d8c4c4c2f0b2fc472&oe=5ABF73B1"></article>]]></description>
+            <link>https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/20232873_1926702617547684_6799084238190838367_o.jpg?oh=ebace15fe2f2cc4d8c4c4c2f0b2fc472&amp;oe=5ABF73B1</link>
+            <guid isPermaLink="false">87ad2a33-1a42-40d1-88bd-0b40df66fb07</guid>
+            <pubDate>Sun, 31 Dec 2017 14:11:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[GOPR1281]]></title>
             <description><![CDATA[<h1>GOPR1281</h1>,<h2>Rainbows at Wallaman Falls</h2>,Wallaman Falls,<article><img src="https://external.xx.fbcdn.net/safe_image.php?d=AQBlt5heT4isN7Ve&w=720&h=720&url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlhjFx70msnc%2Fmaxresdefault.jpg&cfs=1&_nc_hash=AQBgq1FwfHQRqPwp"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>https://external.xx.fbcdn.net/safe_image.php?d=AQBlt5heT4isN7Ve&amp;w=720&amp;h=720&amp;url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FlhjFx70msnc%2Fmaxresdefault.jpg&amp;cfs=1&amp;_nc_hash=AQBgq1FwfHQRqPwp</link>
             <guid isPermaLink="false">5c087a39-c288-4cf3-82ea-b7a04048d193</guid>
             <pubDate>Sun, 31 Dec 2017 14:10:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Scott]]></title>
-            <description><![CDATA[<h1>Scott</h1>,Exo,<article><img src="https://scontent.xx.fbcdn.net/v/t31.0-8/s720x720/13908996_1771638939720720_7768829944521811335_o.jpg?oh=72a20b99e735bba4f08df30a0cc4d7ce&oe=5ABDA10D"></article>]]></description>
-            <link>https://thegrid.ai/scott-johnson-photographic/scott/index.html</link>
-            <guid isPermaLink="false">4bffe2ae-2469-490a-b17a-45c1b481f0be</guid>
-            <pubDate>Sun, 31 Dec 2017 14:10:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
